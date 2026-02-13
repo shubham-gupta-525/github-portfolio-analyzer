@@ -14,12 +14,7 @@ Watch the working demo here:
 
 ---
 
-## 🌐 Live Hosted Project
 
-👉 https://web-production-15137.up.railway.app/
-
-
----
 
 ## 📌 Problem Statement
 
