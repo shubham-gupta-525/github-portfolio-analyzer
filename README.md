@@ -10,7 +10,7 @@ Built for Hackathon 2026.
 
 Watch the working demo here:
 
-👉 [Add your YouTube / Drive link here]
+👉 https://drive.google.com/file/d/1cTyaPzjsc3nMwvoYuPVfgkYt8eFf9JOp/view?usp=sharing
 
 ---
 
